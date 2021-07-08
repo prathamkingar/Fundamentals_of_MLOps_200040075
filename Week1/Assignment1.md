@@ -29,5 +29,5 @@ Reference : https://christophm.github.io/interpretable-ml-book/limo.html
 
 # Part2
 ## Screenshot of the AWS console:
-
+![](https://github.com/prathamkingar/Fundamentals_of_MLOps_200040075/blob/main/Week1/AWSconsole%20ss.jpeg?raw=true)
 
